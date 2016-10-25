@@ -276,6 +276,16 @@
             "repo_url": "https://github.com/astropy/halotools",
             "pypi_name": "halotools",
             "description": "Generate Monte Carlo realizations of mock galaxy populations using cosmological simulations."
-         }
+         },
+         {
+            "name": "saba",
+            "maintainer": "Michele Costa <m.t.costa@keele.ac.uk>",
+            "provisional": "2017-2-17",
+            "stable": true,
+            "repo_url": "https://github.com/astropy/saba/",
+            "home_url": "https://saba.readthedocs.io/en/latest/",
+            "pypi_name": "saba",
+            "description": "A bridge API between astropy.modeling and sherpa's fitting routines."
+         },
     ]
 }
