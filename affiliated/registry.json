@@ -376,6 +376,20 @@
             "home_url": "https://astropy-regions.readthedocs.io",
             "pypi_name": "regions",
             "description": "A Python astronomy package region handling."
+         },
+         {
+            "name": "Saba",
+            "maintainer": "Michele Costa <m.t.costa@keele.ac.uk>",
+            "provisional": false,
+            "stable": true,
+            "home_url": "https://github.com/astropy/saba",
+            "repo_url": "https://saba.readthedocs.io",
+            "pypi_name": "saba",
+            "description": "A Package which allows astropy.modeling to interface with sherpa's fitting routines"
          }
+     ]
+        
+        
+        
     ]
 }
